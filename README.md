@@ -5,7 +5,7 @@
 ## Lab 內容
 
   * [Module 1](Module1/README.md) - 在 Microsoft Azure 上建立 Linux 虛擬機器（Virtual Machine）。
-  * Module 2 - 在 Linux 虛擬機器上執行一個 MEAN（MongoDB + Express + AngularJS + NodeJS） stack 應用程式。
+  * [Module 2](Module2/README.md) - 在 Linux 虛擬機器上執行一個 MEAN（MongoDB + Express + AngularJS + NodeJS） stack 應用程式。
   * Module 3 - 使用 Web App on Linux 以及 DocumentDB 來執行 MEAN stack 應用程式。
   * Module 4 - 使用 DevTest Labs 來建立開發測試用的虛擬機器。
 
